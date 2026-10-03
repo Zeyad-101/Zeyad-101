@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=160&section=header&text=Zeyad%20Waled&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Cairo&descAlignY=60&descSize=16" width="100%" alt="Zeyad Waled" />
 
 <a href="https://zeyad-101.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Full-stack+web+apps+with+React+%26+Next.js;Local-first+AI+tools+in+Python;Embedded+systems+on+ESP32;Open-source+contributor+%40+JobOps" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Full-stack+web+apps+with+React+%26+Next.js;AI-powered+web+apps;Embedded+systems+on+ESP32;Open-source+contributor+%40+JobOps" alt="Typing intro" />
 </a>
 
 <p>
@@ -36,7 +36,6 @@ Software Engineering student at ECU, Cairo. I build full-stack web apps, local-f
 
 | | Project | What it is | Stack |
 |:-:|---|---|---|
-| 🧠 | [**ZED**](https://github.com/Zeyad-101/ZED) | Local-first AI agent runtime — permission gate, audit log, scheduler, vector memory · 500+ tests | <img src="https://skillicons.dev/icons?i=python,sqlite" height="22" /> |
 | 🔐 | [**Keypeer**](https://github.com/Zeyad-101/Keypeer) | Password manager extension — AES-256-GCM + Argon2id, zero backend | <img src="https://skillicons.dev/icons?i=ts,react,vite" height="22" /> |
 | ⚔️ | [**Git-Pulse**](https://github.com/Zeyad-101/Git-Pulse) | GitHub profile → RPG character sheet · [live](https://git-pulse-ruby.vercel.app/) | <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="22" /> |
 | 🎤 | [**Gahez**](https://github.com/Zeyad-101/Gahez) | Role-specific interview practice with scored feedback · [live](https://gahez-zeta.vercel.app/) | <img src="https://skillicons.dev/icons?i=js,html,css" height="22" /> |

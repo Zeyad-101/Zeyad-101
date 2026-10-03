@@ -1,18 +1,53 @@
-# 💫 About Me:
-Passionate Software Engineering student focused on turning ideas into real, working systems. I’ve built projects ranging from embedded smart devices and automation systems to full C++ applications, and I enjoy exploring how hardware and software connect to solve everyday problems. With experience in client-facing roles and team leadership, I bring both technical depth and strong collaboration skills to every project I take on. 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22d3ee&height=160&section=header&text=Zeyad%20Waled&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Cairo&descAlignY=60&descSize=16" width="100%" alt="Zeyad Waled" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/438007774207803419) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeyad-waled-0100z001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ziadwaled4@gmail.com) 
+<a href="https://zeyad-101.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Full-stack+web+apps+with+React+%26+Next.js;Local-first+AI+tools+in+Python;Embedded+systems+on+ESP32;Open-source+contributor+%40+JobOps" alt="Typing intro" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p>
+  <a href="https://zeyad-101.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zeyad-waled-0100z001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ziadwaled4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://zeyad-101.github.io/assets/Zeyad_Waled_CV.pdf"><img src="https://img.shields.io/badge/CV-22d3ee?style=for-the-badge&logo=readdotcv&logoColor=0f172a" alt="CV" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zeyad-101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 👋 About me
 
----
-[![](https://visitcount.itsvg.in/api?id=Zeyad-101&icon=0&color=0)](https://visitcount.itsvg.in)
+Software Engineering student at ECU, Cairo. I build full-stack web apps, local-first AI tools and embedded systems — and I contribute to open source.
+
+- 💼 **Recently:** Software Engineer Intern at **SYNK** — React frontend and testing
+- 🤝 **Open source:** 4 merged PRs to [**JobOps**](https://github.com/DaKheera47/job-ops) — built the WUZZUF & Khamsat job-board extractors
+- 🏆 **DIGITOPIA 2025** national finalist · IEEE ECU Head of the Season
+- 🎯 **Looking for:** software engineering internships and junior roles (Cairo or remote)
+
+### 🛠️ Tech I use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c,html,css&perline=7" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind,qt&perline=7" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite,docker,git,linux,arduino&perline=7" alt="Tools" />
+</p>
+
+### 🚀 What I've built
+
+| | Project | What it is | Stack |
+|:-:|---|---|---|
+| 🧠 | [**ZED**](https://github.com/Zeyad-101/ZED) | Local-first AI agent runtime — permission gate, audit log, scheduler, vector memory · 500+ tests | <img src="https://skillicons.dev/icons?i=python,sqlite" height="22" /> |
+| 🔐 | [**Keypeer**](https://github.com/Zeyad-101/Keypeer) | Password manager extension — AES-256-GCM + Argon2id, zero backend | <img src="https://skillicons.dev/icons?i=ts,react,vite" height="22" /> |
+| ⚔️ | [**Git-Pulse**](https://github.com/Zeyad-101/Git-Pulse) | GitHub profile → RPG character sheet · [live](https://git-pulse-ruby.vercel.app/) | <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" height="22" /> |
+| 🎤 | [**Gahez**](https://github.com/Zeyad-101/Gahez) | Role-specific interview practice with scored feedback · [live](https://gahez-zeta.vercel.app/) | <img src="https://skillicons.dev/icons?i=js,html,css" height="22" /> |
+| ⌚ | [**TrackWatch**](https://github.com/Zeyad-101/TrackWatch-ESP32-Smart-Health-Monitoring-System) | ESP32 health monitor — heart rate, temperature, motion | <img src="https://skillicons.dev/icons?i=cpp,arduino" height="22" /> |
+| 🏥 | [**Hospital System**](https://github.com/Zeyad-101/Hospital_System) | Qt6 desktop app; led a 7-person team | <img src="https://skillicons.dev/icons?i=cpp,qt" height="22" /> |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeyad-101&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeyad-101&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165" alt="Top languages" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:0f172a&height=90&section=footer" width="100%" />
